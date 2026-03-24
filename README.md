@@ -11,12 +11,13 @@
 
 # **About**
 
-<img width="800" src="./terminal.gif" alt="terminal whoami" />
+<img width="650" src="./smoll.gif" alt="terminal whoami" />
+
 <br>
 
 # **Stack**
 
-### **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Front-End &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN (Learning)**
+### **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Front-End &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MERN (Learning)**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py&perline=2" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +28,7 @@
 ### **Tooling**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,powershell,notion,obsidian&perline=8" />
 
-<br></br>
+<br>
 
 # **Projects**
 
@@ -38,12 +39,12 @@
 *More projects coming soon.*
 [→ View all repositories](https://github.com/builtbyfaiz?tab=repositories)
 
-<br></br>
+<br>
 
 # **Stats**
 
 <img width="650" src="https://streak-stats.demolab.com?user=builtbyfaiz&theme=github-dark-blue&hide_border=true&"/></br><img height="190" src="https://github-readme-stats.vercel.app/api?username=builtbyfaiz&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&custom_title=Faizan's%20Github%20Stats&hide=issues&rank_icon=github&hide_rank=true"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbyfaiz&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="190"/>&nbsp;&nbsp;&nbsp;
-<br></br>
+<br>
 
 ## **_builtbyfaiz • built to last_**
 
