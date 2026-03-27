@@ -19,9 +19,7 @@
 
 # **Stats**
 
-
-
-<img width="650" src="https://streak-stats.demolab.com?user=builtbyfaiz&theme=github-dark-blue&hide_border=true&"/></br><img height="190" src="https://github-readme-stats.vercel.app/api?username=builtbyfaiz&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&custom_title=Faizan's%20Github%20Stats&hide=issues&rank_icon=github&hide_rank=true"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbyfaiz&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="190"/>&nbsp;&nbsp;&nbsp;
+<img width="650" src="https://streak-stats.demolab.com?user=builtbyfaiz&theme=github-dark-blue&hide_border=true&"/></br><img height="190" src="https://github-readme-stats-builtbyfaiz.vercel.app/api?username=builtbyfaiz&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&custom_title=Faizan's%20Github%20Stats&hide=issues&rank_icon=github&hide_rank=true"/>&nbsp;&nbsp;<img src="https://github-readme-stats-builtbyfaiz.vercel.app/api/top-langs/?username=builtbyfaiz&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="190"/>&nbsp;&nbsp;&nbsp;
 <br>
 
 ## **_builtbyfaiz • built to last_**
