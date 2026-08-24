@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/builtbyfaiz"><img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0f2744,100:0d1117&height=250&section=header&text=Faizan%20Rasool&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=CS%20@%20NUML%20•%20Systems%20thinker%20•%20Building%20toward%20MERN&descSize=18&descAlignY=58&descColor=8b949e"/></a><img width="900" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2200&color=8b949e&center=true&background=00000000&width=650&lines=builtbyfaiz+-+built+to+last.;Logic+over+Magic.;Building+things+because+they+should+exist.;Logic+before+libraries.;Foundations+before+frameworks.;Built+for+systems%2C+not+syntax." alt="Typing-SVG"/>
+<a href="https://github.com/builtbyfaiz"><img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0f2744,100:0d1117&height=250&section=header&text=Faizan%20Rasool&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=CS%20@%20NUML%20•%20Systems%20thinker%20•%20Building%20toward%20MERN&descSize=18&descAlignY=58&descColor=8b949e"/></a><img width="900" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2200&color=8b949e&center=true&background=00000000&width=650&lines=builtbyfaiz+-+built+to+last.;Logic+over+assumptions.;Building+things+because+they+should+exist.;Logic+before+libraries.;Foundations+before+frameworks.;Built+for+systems%2C+not+syntax." alt="Typing-SVG"/>
 
 # **About**
 <img width="650" src="./transparentTerminal.gif" alt="terminal whoami" /></br>
@@ -19,7 +19,7 @@
 
 # **Stats**
 
-<img width="650" src="https://streak-stats.demolab.com?user=builtbyfaiz&theme=github-dark-blue&hide_border=true&"/></br><img height="190" src="https://builtbyfaiz-stats.vercel.app/api?username=builtbyfaiz&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&custom_title=Faizan's%20Github%20Stats&hide=issues&rank_icon=github&hide_rank=true"/>&nbsp;&nbsp;<img src="builtbyfaiz-stats.vercel.app/api/top-langs/?username=builtbyfaiz&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="190"/>&nbsp;&nbsp;&nbsp;
+<img width="650" src="https://streak-stats.demolab.com?user=builtbyfaiz&theme=github-dark-blue&hide_border=true&"/></br><img height="190" src="https://builtbyfaiz-stats.vercel.app/api?username=builtbyfaiz&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000&custom_title=Faizan's%20Github%20Stats&hide=issues&rank_icon=github&hide_rank=true"/>&nbsp;&nbsp;<img src="https://builtbyfaiz-stats.vercel.app/api/top-langs/?username=builtbyfaiz&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="190"/>&nbsp;&nbsp;&nbsp;
 <br>
 
 ## **_builtbyfaiz • built to last_**
